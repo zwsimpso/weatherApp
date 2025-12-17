@@ -1,0 +1,37 @@
+// Questions and thoughts for this weather app
+
+1. What is the purpose for this app?
+    This app takes user input of a city they would like to get the weather for.
+    The input will be used to get the latitude and longitude using a Geocoding Api.
+    When it get the coordinates, it will use them to get the weather from a Weather Api.
+    This data will then be displayed back to the user.
+
+    The purpose of this app is to work on my skills programming in Java, but to also get introduced to working with
+    Api's. I understand that Api's are interfaces that let programs interact with their data. Using a geocoding api
+    will let me get coordinates that will be needed to get access to the weather data.
+
+1. What will you need in order to create this program?
+
+2. What were some things you learned while doing this program?
+
+3. What were some issues you ran into?
+
+
+
+
+
+// Thoughts
+This doesn't really have to do with the program but this is my first time programming on this IDE. I figured out how
+to connect this project to GitHub but I couldn't figure out how to link it with an already existing repo. I created
+a new repo within the IDE which makes it easy but not something that I was used to. I'm used to using the terminal
+to init and connect it when working in VS code. I suppose I could have used the pull command to get the repo then
+commit what I changed after so I will try that on the next program.
+
+Things I think I will need to complete this program:
+I'll need the scanner package to get user input.
+I'll need a Geocoding Api.
+Plug user input into Geocoding Api to get coordinates.
+Get Weather Api.
+Plug coordinates into weather api.
+Get weather data.
+Display data to user.
