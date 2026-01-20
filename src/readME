@@ -35,3 +35,11 @@ Get Weather Api.
 Plug coordinates into weather api.
 Get weather data.
 Display data to user.
+
+I should use a try catch to make the user try again if the input given doesn't work with the Geocoding Api then
+make them try again.
+
+I would like to use a logger to log any error or exception throws I get.
+
+From reading the documentation, the data given back from the api's are json objects so i'll need to figure out
+how to get the data i need from those objects.
